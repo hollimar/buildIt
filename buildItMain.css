@@ -1,0 +1,19 @@
+.inline {
+    display: inline;
+}
+
+#topSection {
+    background: url(communityHeader.jpg) center;
+    background-size: 100%;
+    color: azure;
+}
+
+#buildItTitle {
+    padding-left: 10px;
+}
+
+#logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
